@@ -1,0 +1,2 @@
+# QGraphicsViewMap
+本项目是通过QGraphicsView加载地图的瓦片进行显示，支持内网访问
