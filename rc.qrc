@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>E:/rc/branch_closed.png</file>
+        <file>E:/rc/branch_closed-on.png</file>
+        <file>E:/rc/branch_open.png</file>
+        <file>E:/rc/branch_open-on.png</file>
+        <file>E:/rc/checkbox_checked.png</file>
+        <file>E:/rc/checkbox_checked_disabled.png</file>
+        <file>E:/rc/checkbox_checked_focus.png</file>
+        <file>E:/rc/checkbox_indeterminate.png</file>
+        <file>E:/rc/checkbox_indeterminate_disabled.png</file>
+        <file>E:/rc/checkbox_indeterminate_focus.png</file>
+        <file>E:/rc/checkbox_unchecked.png</file>
+        <file>E:/rc/checkbox_unchecked_disabled.png</file>
+        <file>E:/rc/checkbox_unchecked_focus.png</file>
+        <file>E:/rc/close.png</file>
+        <file>E:/rc/close-hover.png</file>
+        <file>E:/rc/close-pressed.png</file>
+        <file>E:/rc/down_arrow.png</file>
+        <file>E:/rc/down_arrow_disabled.png</file>
+        <file>E:/rc/Hmovetoolbar.png</file>
+        <file>E:/rc/Hsepartoolbar.png</file>
+        <file>E:/rc/left_arrow.png</file>
+        <file>E:/rc/left_arrow_disabled.png</file>
+        <file>E:/rc/radio_checked.png</file>
+        <file>E:/rc/radio_checked_disabled.png</file>
+        <file>E:/rc/radio_checked_focus.png</file>
+        <file>E:/rc/radio_unchecked.png</file>
+        <file>E:/rc/radio_unchecked_disabled.png</file>
+        <file>E:/rc/radio_unchecked_focus.png</file>
+        <file>E:/rc/right_arrow.png</file>
+        <file>E:/rc/right_arrow_disabled.png</file>
+        <file>E:/rc/sizegrip.png</file>
+        <file>E:/rc/stylesheet-branch-end.png</file>
+        <file>E:/rc/stylesheet-branch-more.png</file>
+        <file>E:/rc/stylesheet-vline.png</file>
+        <file>E:/rc/transparent.png</file>
+        <file>E:/rc/undock.png</file>
+        <file>E:/rc/up_arrow.png</file>
+        <file>E:/rc/up_arrow_disabled.png</file>
+        <file>E:/rc/Vmovetoolbar.png</file>
+        <file>E:/rc/Vsepartoolbar.png</file>
+        <file>E:/style.qss</file>
+    </qresource>
+</RCC>
